@@ -1,0 +1,11 @@
+{
+    "name": "typescript-practice-1",
+    "version": "0.0.0",
+    "description": "typescriptの練習",
+    "author": "pro_shunsuke",
+    "devDependencies": {
+    },
+    "dependencies": {
+        "typescript": "^2.6"
+    }
+}
